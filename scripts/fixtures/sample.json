@@ -590,19 +590,7 @@
     "stargazers_count": 0
    }
   ],
-  "hackathonvivacenter": [
-   {
-    "name": ".github",
-    "full_name": "hackathonvivacenter/.github",
-    "html_url": "https://github.com/hackathonvivacenter/.github",
-    "language": null,
-    "pushed_at": "2024-08-15T12:00:00Z",
-    "fork": false,
-    "archived": false,
-    "private": false,
-    "stargazers_count": 0
-   }
-  ]
+  "Foguete-4RI": []
  },
  "orgs": {
   "fenixdevsreborn": {
@@ -613,9 +601,9 @@
    "login": "thefenixdevs",
    "name": null
   },
-  "hackathonvivacenter": {
-   "login": "hackathonvivacenter",
-   "name": null
+  "Foguete-4RI": {
+   "login": "Foguete-4RI",
+   "name": "TIC 4 RIGO"
   }
  },
  "languages": {

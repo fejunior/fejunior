@@ -119,14 +119,14 @@ const recentMd = [
 ].join('\n');
 
 // ---------- organizações ----------
+const repoLabel = (n) => (n === 0 ? 'nenhum repo público ainda' : n === 1 ? '1 repo público' : `${n} repos públicos`);
 const orgsMd = [
   '<table><tr>',
   ...orgs.map(
     (o) => `<td align="center" width="${Math.floor(100 / orgs.length)}%">
 <a href="https://github.com/${o.login}"><img src="https://github.com/${o.login}.png?size=120" width="56" alt="${esc(o.info?.name || o.login)}" /></a><br/>
 <b>${esc(o.info?.name || o.login)}</b><br/>
-<sub><code>${esc(o.role)}</code> · ${o.repos.length} ${o.repos.length === 1 ? "repo público" : "repos públicos"}</sub><br/>
-<sub>${esc(o.about)}</sub>
+<sub><code>${esc(o.role)}</code> · ${repoLabel(o.repos.length)}</sub>${o.about ? `<br/>\n<sub>${esc(o.about)}</sub>` : ''}
 </td>`,
   ),
   '</tr></table>',

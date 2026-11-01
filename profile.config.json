@@ -5,7 +5,7 @@
   "organizations": [
     { "login": "fenixdevsreborn", "role": "Owner", "about": "Microsserviços .NET da Pós-Tech FIAP (fases 3 a 5)" },
     { "login": "thefenixdevs", "role": "Membro", "about": "Tech Challenge FIAP Cloud Games (fase 2)" },
-    { "login": "hackathonvivacenter", "role": "Owner", "about": "Organização do hackathon Viva Center" }
+    { "login": "Foguete-4RI", "role": "Owner" }
   ],
   "projects": [
     {

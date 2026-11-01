@@ -18,7 +18,21 @@ entrego   software sob medida, automação e IA aplicada
 foco      .NET + Vue 3, com o domínio no centro e a tecnologia na borda
 ```
 
+<img src="./assets/generated/stats.svg" width="100%" alt="Números do GitHub de fejunior: contribuições, sequência e repositórios, atualizados todo dia." />
+
+### `ls ~/projetos`
+
+<!-- junonn:projects:start -->
+<!-- junonn:projects:end -->
+
+### `junonn orgs`
+
+<!-- junonn:orgs:start -->
+<!-- junonn:orgs:end -->
+
 <img src="./assets/stack.svg" width="100%" alt="Stack em camadas — Interface: Vue 3, Nuxt, Quasar, TypeScript, Pinia, GSAP. API: .NET 10, Minimal APIs, SignalR, ProblemDetails, OpenAPI. Domínio: DDD, CQRS, Clean Architecture, Vertical Slice, Eventos. Dados e infra: PostgreSQL, EF Core, Docker, Outbox, GitHub Actions. IA: RAG, LLMs, multi-agentes, embeddings." />
+
+<img src="./assets/generated/languages.svg" width="100%" alt="Linguagens mais usadas nos repositórios públicos próprios e das organizações, por bytes de código." />
 
 ### `git log --oneline principios`
 
@@ -31,18 +45,10 @@ foco      .NET + Vue 3, com o domínio no centro e a tecnologia na borda
 # 5d61ac2 docs:     o próximo dev é você daqui a seis meses
 ```
 
-### `ls ~/lab`
+### `junonn log --recent`
 
-| experimento | o que faz | ferramentas |
-|---|---|---|
-| **Junonnscript** | Codifica uma mensagem de texto dentro de uma matriz quadrada. | TypeScript · álgebra linear |
-| **Círculos em canvas** | Centenas de círculos em movimento, com quantidade, raio e velocidade ajustáveis. | Canvas 2D · requestAnimationFrame |
-| **Matriz** | Gera matrizes aleatórias ou informadas e faz operações básicas. | TypeScript · Quasar |
-| **Vetores** | Desenho de formas e linhas direto na API do canvas. | Canvas 2D |
-
-<sub>Todos rodando em <a href="https://junonn.com.br">junonn.com.br</a> · código em <a href="https://github.com/fejunior/junonn-frontend">junonn-frontend</a></sub>
-
-### `junonn log --contributions`
+<!-- junonn:recent:start -->
+<!-- junonn:recent:end -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fejunior/fejunior/output/snake-dark.svg" />
@@ -50,4 +56,4 @@ foco      .NET + Vue 3, com o domínio no centro e a tecnologia na borda
   <img alt="Gráfico de contribuições sendo percorrido por uma cobrinha neon" src="https://raw.githubusercontent.com/fejunior/fejunior/output/snake-dark.svg" />
 </picture>
 
-<p align="right"><sub><code>build concluído · obrigado pela visita ▸</code></sub></p>
+<p align="right"><sub><code>build concluído · este perfil se atualiza sozinho todo dia ▸</code></sub></p>
