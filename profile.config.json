@@ -1,0 +1,78 @@
+{
+  "$comment": "Fonte de verdade do perfil. A Action lê este arquivo, busca os dados vivos na API do GitHub e regenera assets/generated/* e os blocos marcados do README.",
+  "user": "fejunior",
+  "timezone": "America/Sao_Paulo",
+  "organizations": [
+    { "login": "fenixdevsreborn", "role": "Owner", "about": "Microsserviços .NET da Pós-Tech FIAP (fases 3 a 5)" },
+    { "login": "thefenixdevs", "role": "Membro", "about": "Tech Challenge FIAP Cloud Games (fase 2)" },
+    { "login": "hackathonvivacenter", "role": "Owner", "about": "Organização do hackathon Viva Center" }
+  ],
+  "projects": [
+    {
+      "id": "fiap-cloud-games",
+      "title": "FIAP Cloud Games",
+      "kicker": "The Fenix Devs · Pós-Tech FIAP",
+      "description": "Plataforma de games em microsserviços: usuários, catálogo, pagamentos e notificações conversando por eventos.",
+      "tech": [".NET", "RabbitMQ", "MassTransit", "PostgreSQL", "YARP", "Kubernetes", "Terraform", "Helm", "AWS EKS"],
+      "url": "https://github.com/fenixdevsreborn/Fase4-FCG-Orchestrator",
+      "repos": [
+        "fenixdevsreborn/Fase4-FCG-Orchestrator",
+        "fenixdevsreborn/Fase4-FCG-UsersAPI",
+        "fenixdevsreborn/Fase4-FCG-CatalogAPI",
+        "fenixdevsreborn/Fase4-FCG-PaymentsAPI",
+        "fenixdevsreborn/Fase4-FCG-NotificationsAPI",
+        "fenixdevsreborn/Fase4-FCG-Frontend",
+        "fenixdevsreborn/Fase4-infrastructure-as-code",
+        "thefenixdevs/FIAP-Cloud-Games"
+      ]
+    },
+    {
+      "id": "conexao-solidaria",
+      "title": "Conexão Solidária",
+      "kicker": "Hackathon Pós-Tech · .NET 10",
+      "description": "Cinco serviços atrás de um gateway YARP, com mensageria, busca, tempo real e observabilidade de ponta a ponta.",
+      "tech": [".NET 10", "YARP", "RabbitMQ", "PostgreSQL", "Elasticsearch", "SignalR", "Kubernetes", "OpenTelemetry", "Grafana"],
+      "url": "https://github.com/fenixdevsreborn/Fase5-Hackathon",
+      "repos": ["fenixdevsreborn/Fase5-Hackathon"]
+    },
+    {
+      "id": "catalog-api",
+      "title": "CatalogAPI",
+      "kicker": "Clean Architecture · CQRS",
+      "description": "Gestão de compras de jogos com Outbox e eventos via MassTransit, testada com xUnit.",
+      "tech": ["Clean Architecture", "CQRS", "Outbox", "MassTransit", "RabbitMQ", "EF Core", "xUnit"],
+      "url": "https://github.com/fejunior/fase2-CatalogAPI",
+      "repos": ["fejunior/fase2-CatalogAPI"]
+    },
+    {
+      "id": "junonn-site",
+      "title": "junonn.com.br",
+      "kicker": "Vue 3 · Quasar · GSAP",
+      "description": "Portfólio com herói em vídeo, avatar em sprites, HUD com consentimento LGPD e um laboratório de experimentos.",
+      "tech": ["Vue 3", "Quasar", "TypeScript", "Pinia", "GSAP", "Lenis"],
+      "url": "https://junonn.com.br",
+      "status": "no ar",
+      "repos": []
+    },
+    {
+      "id": "self-hosted",
+      "title": "Ferramentas self-hosted",
+      "kicker": "Forks adaptados para uso interno",
+      "description": "Construtor de chatbots, cliente de chat corporativo e service desk ITIL, ajustados para operar dentro de casa.",
+      "tech": ["Typebot", "TypeScript", "Spark", "Java", "GLPI"],
+      "url": "https://github.com/fejunior/junonn.typebot.io",
+      "repos": ["fejunior/junonn.typebot.io", "fejunior/Spark_junonns", "fejunior/glpi_test"]
+    },
+    {
+      "id": "fundamentos",
+      "title": "Fundamentos em C++",
+      "kicker": "Estruturas de dados",
+      "description": "Implementação de árvore e exercícios de técnicas de programação: a base que sustenta o resto.",
+      "tech": ["C++", "Estruturas de dados"],
+      "url": "https://github.com/fejunior/Arvore-em-C-plus-plus",
+      "repos": ["fejunior/Arvore-em-C-plus-plus", "fejunior/TecnicasProgramacao", "fejunior/Tp-Classe-Cone"]
+    }
+  ],
+  "recentActivity": { "limit": 6, "includeForks": false },
+  "languages": { "top": 7, "exclude": ["HTML", "Dockerfile", "Shell", "Batchfile", "Makefile"] }
+}

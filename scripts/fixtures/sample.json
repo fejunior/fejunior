@@ -1,0 +1,2214 @@
+{
+ "_aviso": "Dados de exemplo para prévia local (nomes/linguagens/datas reais de 01/11/2026; bytes e dias de contribuição são sintéticos).",
+ "userRepos": [
+  {
+   "name": "fejunior",
+   "full_name": "fejunior/fejunior",
+   "html_url": "https://github.com/fejunior/fejunior",
+   "language": null,
+   "pushed_at": "2026-11-01T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "junonn.typebot.io",
+   "full_name": "fejunior/junonn.typebot.io",
+   "html_url": "https://github.com/fejunior/junonn.typebot.io",
+   "language": "TypeScript",
+   "pushed_at": "2026-03-11T12:00:00Z",
+   "fork": true,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "Spark_junonns",
+   "full_name": "fejunior/Spark_junonns",
+   "html_url": "https://github.com/fejunior/Spark_junonns",
+   "language": "Java",
+   "pushed_at": "2026-02-24T12:00:00Z",
+   "fork": true,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "fase2-CatalogAPI",
+   "full_name": "fejunior/fase2-CatalogAPI",
+   "html_url": "https://github.com/fejunior/fase2-CatalogAPI",
+   "language": "C#",
+   "pushed_at": "2026-01-08T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "glpi_test",
+   "full_name": "fejunior/glpi_test",
+   "html_url": "https://github.com/fejunior/glpi_test",
+   "language": null,
+   "pushed_at": "2025-09-15T12:00:00Z",
+   "fork": true,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "FIAP_Microservices",
+   "full_name": "fejunior/FIAP_Microservices",
+   "html_url": "https://github.com/fejunior/FIAP_Microservices",
+   "language": null,
+   "pushed_at": "2025-08-22T12:00:00Z",
+   "fork": true,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "cdn-iago",
+   "full_name": "fejunior/cdn-iago",
+   "html_url": "https://github.com/fejunior/cdn-iago",
+   "language": null,
+   "pushed_at": "2025-05-23T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "database",
+   "full_name": "fejunior/database",
+   "html_url": "https://github.com/fejunior/database",
+   "language": null,
+   "pushed_at": "2025-03-11T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "AutoMapper",
+   "full_name": "fejunior/AutoMapper",
+   "html_url": "https://github.com/fejunior/AutoMapper",
+   "language": null,
+   "pushed_at": "2025-02-24T12:00:00Z",
+   "fork": true,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "dev.news",
+   "full_name": "fejunior/dev.news",
+   "html_url": "https://github.com/fejunior/dev.news",
+   "language": "JavaScript",
+   "pushed_at": "2024-11-21T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "bot_campus",
+   "full_name": "fejunior/bot_campus",
+   "html_url": "https://github.com/fejunior/bot_campus",
+   "language": null,
+   "pushed_at": "2024-09-02T12:00:00Z",
+   "fork": true,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "nlw-expert-c-sharp",
+   "full_name": "fejunior/nlw-expert-c-sharp",
+   "html_url": "https://github.com/fejunior/nlw-expert-c-sharp",
+   "language": null,
+   "pushed_at": "2024-02-06T12:00:00Z",
+   "fork": true,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "Arvore-em-C-plus-plus",
+   "full_name": "fejunior/Arvore-em-C-plus-plus",
+   "html_url": "https://github.com/fejunior/Arvore-em-C-plus-plus",
+   "language": "C++",
+   "pushed_at": "2023-05-25T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "Task_01",
+   "full_name": "fejunior/Task_01",
+   "html_url": "https://github.com/fejunior/Task_01",
+   "language": "C++",
+   "pushed_at": "2023-03-02T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "studies-api-node-transaction",
+   "full_name": "fejunior/studies-api-node-transaction",
+   "html_url": "https://github.com/fejunior/studies-api-node-transaction",
+   "language": "JavaScript",
+   "pushed_at": "2023-01-24T12:00:00Z",
+   "fork": false,
+   "archived": true,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "studies-api-node-the-repository",
+   "full_name": "fejunior/studies-api-node-the-repository",
+   "html_url": "https://github.com/fejunior/studies-api-node-the-repository",
+   "language": "JavaScript",
+   "pushed_at": "2023-01-24T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "ev-charge-map-api",
+   "full_name": "fejunior/ev-charge-map-api",
+   "html_url": "https://github.com/fejunior/ev-charge-map-api",
+   "language": "PHP",
+   "pushed_at": "2023-01-09T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "ev-charge-map",
+   "full_name": "fejunior/ev-charge-map",
+   "html_url": "https://github.com/fejunior/ev-charge-map",
+   "language": "JavaScript",
+   "pushed_at": "2023-01-09T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "studies-api-reactjs-the-repository",
+   "full_name": "fejunior/studies-api-reactjs-the-repository",
+   "html_url": "https://github.com/fejunior/studies-api-reactjs-the-repository",
+   "language": "JavaScript",
+   "pushed_at": "2023-01-05T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "studiesCss",
+   "full_name": "fejunior/studiesCss",
+   "html_url": "https://github.com/fejunior/studiesCss",
+   "language": "CSS",
+   "pushed_at": "2022-10-15T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "studies-typescript001",
+   "full_name": "fejunior/studies-typescript001",
+   "html_url": "https://github.com/fejunior/studies-typescript001",
+   "language": "TypeScript",
+   "pushed_at": "2022-10-15T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "Tp-Classe-Cone",
+   "full_name": "fejunior/Tp-Classe-Cone",
+   "html_url": "https://github.com/fejunior/Tp-Classe-Cone",
+   "language": "C++",
+   "pushed_at": "2022-10-15T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "TecnicasProgramacao",
+   "full_name": "fejunior/TecnicasProgramacao",
+   "html_url": "https://github.com/fejunior/TecnicasProgramacao",
+   "language": "C++",
+   "pushed_at": "2022-10-15T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  },
+  {
+   "name": "Junonn-tracker",
+   "full_name": "fejunior/Junonn-tracker",
+   "html_url": "https://github.com/fejunior/Junonn-tracker",
+   "language": "Vue",
+   "pushed_at": "2021-12-15T12:00:00Z",
+   "fork": false,
+   "archived": false,
+   "private": false,
+   "stargazers_count": 0
+  }
+ ],
+ "orgRepos": {
+  "fenixdevsreborn": [
+   {
+    "name": "Fase5-Hackathon",
+    "full_name": "fenixdevsreborn/Fase5-Hackathon",
+    "html_url": "https://github.com/fenixdevsreborn/Fase5-Hackathon",
+    "language": "C#",
+    "pushed_at": "2026-07-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-UsersAPI",
+    "full_name": "fenixdevsreborn/Fase4-UsersAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-UsersAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-Orchestrator",
+    "full_name": "fenixdevsreborn/Fase4-Orchestrator",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-Orchestrator",
+    "language": "PowerShell",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-PaymentsAPI",
+    "full_name": "fenixdevsreborn/Fase4-PaymentsAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-PaymentsAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-NotificationAPI",
+    "full_name": "fenixdevsreborn/Fase4-NotificationAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-NotificationAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-GamesAPI",
+    "full_name": "fenixdevsreborn/Fase4-GamesAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-GamesAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-UsersAPI",
+    "full_name": "fenixdevsreborn/Fase3-UsersAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase3-UsersAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-GamesAPI",
+    "full_name": "fenixdevsreborn/Fase3-GamesAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase3-GamesAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-FCG-Orchestrator",
+    "full_name": "fenixdevsreborn/Fase4-FCG-Orchestrator",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-FCG-Orchestrator",
+    "language": "HCL",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-FCG-CatalogAPI",
+    "full_name": "fenixdevsreborn/Fase4-FCG-CatalogAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-FCG-CatalogAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-FCG-UsersAPI",
+    "full_name": "fenixdevsreborn/Fase4-FCG-UsersAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-FCG-UsersAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-FCG-Frontend",
+    "full_name": "fenixdevsreborn/Fase4-FCG-Frontend",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-FCG-Frontend",
+    "language": "Vue",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-FCG-NotificationsAPI",
+    "full_name": "fenixdevsreborn/Fase4-FCG-NotificationsAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-FCG-NotificationsAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-FCG-PaymentsAPI",
+    "full_name": "fenixdevsreborn/Fase4-FCG-PaymentsAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-FCG-PaymentsAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase4-infrastructure-as-code",
+    "full_name": "fenixdevsreborn/Fase4-infrastructure-as-code",
+    "html_url": "https://github.com/fenixdevsreborn/Fase4-infrastructure-as-code",
+    "language": "HCL",
+    "pushed_at": "2026-04-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-NotificationAPI",
+    "full_name": "fenixdevsreborn/Fase3-NotificationAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase3-NotificationAPI",
+    "language": "C#",
+    "pushed_at": "2026-03-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-PaymentsAPI",
+    "full_name": "fenixdevsreborn/Fase3-PaymentsAPI",
+    "html_url": "https://github.com/fenixdevsreborn/Fase3-PaymentsAPI",
+    "language": "C#",
+    "pushed_at": "2026-03-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-InfraOrchestrador",
+    "full_name": "fenixdevsreborn/Fase3-InfraOrchestrador",
+    "html_url": "https://github.com/fenixdevsreborn/Fase3-InfraOrchestrador",
+    "language": "HCL",
+    "pushed_at": "2026-03-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-NotificationLambda",
+    "full_name": "fenixdevsreborn/Fase3-NotificationLambda",
+    "html_url": "https://github.com/fenixdevsreborn/Fase3-NotificationLambda",
+    "language": "C#",
+    "pushed_at": "2026-03-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   }
+  ],
+  "thefenixdevs": [
+   {
+    "name": "Fase2-NotificationsAPI",
+    "full_name": "thefenixdevs/Fase2-NotificationsAPI",
+    "html_url": "https://github.com/thefenixdevs/Fase2-NotificationsAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase2-Orchestrator",
+    "full_name": "thefenixdevs/Fase2-Orchestrator",
+    "html_url": "https://github.com/thefenixdevs/Fase2-Orchestrator",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase2-UsersAPI",
+    "full_name": "thefenixdevs/Fase2-UsersAPI",
+    "html_url": "https://github.com/thefenixdevs/Fase2-UsersAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase2-PaymentsAPI",
+    "full_name": "thefenixdevs/Fase2-PaymentsAPI",
+    "html_url": "https://github.com/thefenixdevs/Fase2-PaymentsAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase2-CatalogAPI",
+    "full_name": "thefenixdevs/Fase2-CatalogAPI",
+    "html_url": "https://github.com/thefenixdevs/Fase2-CatalogAPI",
+    "language": "C#",
+    "pushed_at": "2026-05-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-GamesAPI",
+    "full_name": "thefenixdevs/Fase3-GamesAPI",
+    "html_url": "https://github.com/thefenixdevs/Fase3-GamesAPI",
+    "language": null,
+    "pushed_at": "2026-03-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-PaymentsAPI",
+    "full_name": "thefenixdevs/Fase3-PaymentsAPI",
+    "html_url": "https://github.com/thefenixdevs/Fase3-PaymentsAPI",
+    "language": null,
+    "pushed_at": "2026-03-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase3-UsersAPI",
+    "full_name": "thefenixdevs/Fase3-UsersAPI",
+    "html_url": "https://github.com/thefenixdevs/Fase3-UsersAPI",
+    "language": null,
+    "pushed_at": "2026-03-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "Fase2",
+    "full_name": "thefenixdevs/Fase2",
+    "html_url": "https://github.com/thefenixdevs/Fase2",
+    "language": "C#",
+    "pushed_at": "2026-01-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   },
+   {
+    "name": "FIAP-Cloud-Games",
+    "full_name": "thefenixdevs/FIAP-Cloud-Games",
+    "html_url": "https://github.com/thefenixdevs/FIAP-Cloud-Games",
+    "language": "C#",
+    "pushed_at": "2025-12-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   }
+  ],
+  "hackathonvivacenter": [
+   {
+    "name": ".github",
+    "full_name": "hackathonvivacenter/.github",
+    "html_url": "https://github.com/hackathonvivacenter/.github",
+    "language": null,
+    "pushed_at": "2024-08-15T12:00:00Z",
+    "fork": false,
+    "archived": false,
+    "private": false,
+    "stargazers_count": 0
+   }
+  ]
+ },
+ "orgs": {
+  "fenixdevsreborn": {
+   "login": "fenixdevsreborn",
+   "name": "The Fenix Devs"
+  },
+  "thefenixdevs": {
+   "login": "thefenixdevs",
+   "name": null
+  },
+  "hackathonvivacenter": {
+   "login": "hackathonvivacenter",
+   "name": null
+  }
+ },
+ "languages": {
+  "fejunior/junonn.typebot.io": {
+   "TypeScript": 60000
+  },
+  "fejunior/Spark_junonns": {
+   "Java": 50000
+  },
+  "fejunior/fase2-CatalogAPI": {
+   "C#": 90000
+  },
+  "fejunior/dev.news": {
+   "JavaScript": 20000
+  },
+  "fejunior/Arvore-em-C-plus-plus": {
+   "C++": 8000
+  },
+  "fejunior/Task_01": {
+   "C++": 8000
+  },
+  "fejunior/studies-api-node-transaction": {
+   "JavaScript": 20000
+  },
+  "fejunior/studies-api-node-the-repository": {
+   "JavaScript": 20000
+  },
+  "fejunior/ev-charge-map-api": {
+   "PHP": 15000
+  },
+  "fejunior/ev-charge-map": {
+   "JavaScript": 20000
+  },
+  "fejunior/studies-api-reactjs-the-repository": {
+   "JavaScript": 20000
+  },
+  "fejunior/studiesCss": {
+   "CSS": 5000
+  },
+  "fejunior/studies-typescript001": {
+   "TypeScript": 60000
+  },
+  "fejunior/Tp-Classe-Cone": {
+   "C++": 8000
+  },
+  "fejunior/TecnicasProgramacao": {
+   "C++": 8000
+  },
+  "fejunior/Junonn-tracker": {
+   "Vue": 40000
+  },
+  "fenixdevsreborn/Fase5-Hackathon": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-UsersAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-Orchestrator": {
+   "PowerShell": 4000
+  },
+  "fenixdevsreborn/Fase4-PaymentsAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-NotificationAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-GamesAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase3-UsersAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase3-GamesAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-FCG-Orchestrator": {
+   "HCL": 12000
+  },
+  "fenixdevsreborn/Fase4-FCG-CatalogAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-FCG-UsersAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-FCG-Frontend": {
+   "Vue": 40000
+  },
+  "fenixdevsreborn/Fase4-FCG-NotificationsAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-FCG-PaymentsAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase4-infrastructure-as-code": {
+   "HCL": 12000
+  },
+  "fenixdevsreborn/Fase3-NotificationAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase3-PaymentsAPI": {
+   "C#": 90000
+  },
+  "fenixdevsreborn/Fase3-InfraOrchestrador": {
+   "HCL": 12000
+  },
+  "fenixdevsreborn/Fase3-NotificationLambda": {
+   "C#": 90000
+  },
+  "thefenixdevs/Fase2-NotificationsAPI": {
+   "C#": 90000
+  },
+  "thefenixdevs/Fase2-Orchestrator": {
+   "C#": 90000
+  },
+  "thefenixdevs/Fase2-UsersAPI": {
+   "C#": 90000
+  },
+  "thefenixdevs/Fase2-PaymentsAPI": {
+   "C#": 90000
+  },
+  "thefenixdevs/Fase2-CatalogAPI": {
+   "C#": 90000
+  },
+  "thefenixdevs/Fase2": {
+   "C#": 90000
+  },
+  "thefenixdevs/FIAP-Cloud-Games": {
+   "C#": 90000
+  }
+ },
+ "contributions": {
+  "total": 1013,
+  "days": [
+   {
+    "date": "2025-11-02",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-03",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-11-04",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-05",
+    "contributionCount": 5
+   },
+   {
+    "date": "2025-11-06",
+    "contributionCount": 2
+   },
+   {
+    "date": "2025-11-07",
+    "contributionCount": 2
+   },
+   {
+    "date": "2025-11-08",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-09",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-10",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-11",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-12",
+    "contributionCount": 2
+   },
+   {
+    "date": "2025-11-13",
+    "contributionCount": 3
+   },
+   {
+    "date": "2025-11-14",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-11-15",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-11-16",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-11-17",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-18",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-19",
+    "contributionCount": 3
+   },
+   {
+    "date": "2025-11-20",
+    "contributionCount": 3
+   },
+   {
+    "date": "2025-11-21",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-11-22",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-11-23",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-11-24",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-25",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-11-26",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-27",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-11-28",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-29",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-11-30",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-01",
+    "contributionCount": 5
+   },
+   {
+    "date": "2025-12-02",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-03",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-12-04",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-05",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-12-06",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-12-07",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-12-08",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-12-09",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-12-10",
+    "contributionCount": 5
+   },
+   {
+    "date": "2025-12-11",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-12",
+    "contributionCount": 5
+   },
+   {
+    "date": "2025-12-13",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-14",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-15",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-12-16",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-12-17",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-18",
+    "contributionCount": 3
+   },
+   {
+    "date": "2025-12-19",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-12-20",
+    "contributionCount": 5
+   },
+   {
+    "date": "2025-12-21",
+    "contributionCount": 2
+   },
+   {
+    "date": "2025-12-22",
+    "contributionCount": 3
+   },
+   {
+    "date": "2025-12-23",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-12-24",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-12-25",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-12-26",
+    "contributionCount": 2
+   },
+   {
+    "date": "2025-12-27",
+    "contributionCount": 1
+   },
+   {
+    "date": "2025-12-28",
+    "contributionCount": 0
+   },
+   {
+    "date": "2025-12-29",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-30",
+    "contributionCount": 8
+   },
+   {
+    "date": "2025-12-31",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-01-01",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-01-02",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-01-03",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-01-04",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-01-05",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-01-06",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-01-07",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-01-08",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-01-09",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-01-10",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-01-11",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-01-12",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-01-13",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-01-14",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-01-15",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-01-16",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-01-17",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-01-18",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-01-19",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-01-20",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-01-21",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-01-22",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-01-23",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-01-24",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-01-25",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-01-26",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-01-27",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-01-28",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-01-29",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-01-30",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-01-31",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-02-01",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-02-02",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-02-03",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-02-04",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-02-05",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-02-06",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-02-07",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-02-08",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-02-09",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-02-10",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-02-11",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-02-12",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-02-13",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-02-14",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-02-15",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-02-16",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-02-17",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-02-18",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-02-19",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-02-20",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-02-21",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-02-22",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-02-23",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-02-24",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-02-25",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-02-26",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-02-27",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-02-28",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-03-01",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-02",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-03",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-03-04",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-03-05",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-03-06",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-03-07",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-08",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-09",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-10",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-11",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-12",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-03-13",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-14",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-15",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-16",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-03-17",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-18",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-19",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-03-20",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-03-21",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-22",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-23",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-24",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-25",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-03-26",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-03-27",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-03-28",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-03-29",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-03-30",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-03-31",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-04-01",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-04-02",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-04-03",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-04-04",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-04-05",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-04-06",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-04-07",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-04-08",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-04-09",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-04-10",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-04-11",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-04-12",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-04-13",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-04-14",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-04-15",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-04-16",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-04-17",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-04-18",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-04-19",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-04-20",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-04-21",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-04-22",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-04-23",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-04-24",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-04-25",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-04-26",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-04-27",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-04-28",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-04-29",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-04-30",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-01",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-05-02",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-03",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-04",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-05",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-06",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-07",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-05-08",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-09",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-05-10",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-05-11",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-12",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-05-13",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-14",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-05-15",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-05-16",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-05-17",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-18",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-05-19",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-20",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-21",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-05-22",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-05-23",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-05-24",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-05-25",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-05-26",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-05-27",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-28",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-05-29",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-30",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-05-31",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-06-01",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-06-02",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-06-03",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-04",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-05",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-06-06",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-06-07",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-08",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-06-09",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-06-10",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-06-11",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-12",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-06-13",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-14",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-15",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-16",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-06-17",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-06-18",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-19",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-06-20",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-21",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-06-22",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-23",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-06-24",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-06-25",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-06-26",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-27",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-06-28",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-06-29",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-06-30",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-07-01",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-07-02",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-07-03",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-07-04",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-07-05",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-07-06",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-07-07",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-07-08",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-07-09",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-07-10",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-07-11",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-07-12",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-07-13",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-07-14",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-07-15",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-07-16",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-07-17",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-07-18",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-07-19",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-07-20",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-07-21",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-07-22",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-07-23",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-07-24",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-07-25",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-07-26",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-07-27",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-07-28",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-07-29",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-07-30",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-07-31",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-08-01",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-08-02",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-08-03",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-08-04",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-08-05",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-08-06",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-08-07",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-08-08",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-08-09",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-08-10",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-08-11",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-08-12",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-08-13",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-08-14",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-08-15",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-08-16",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-08-17",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-08-18",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-08-19",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-08-20",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-08-21",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-08-22",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-08-23",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-08-24",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-08-25",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-08-26",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-08-27",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-08-28",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-08-29",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-08-30",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-08-31",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-09-01",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-02",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-09-03",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-04",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-05",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-06",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-07",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-09-08",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-09-09",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-10",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-09-11",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-09-12",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-09-13",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-09-14",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-09-15",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-16",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-09-17",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-18",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-19",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-09-20",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-09-21",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-09-22",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-09-23",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-09-24",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-09-25",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-09-26",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-09-27",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-09-28",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-09-29",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-09-30",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-10-01",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-10-02",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-10-03",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-10-04",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-10-05",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-10-06",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-10-07",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-10-08",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-10-09",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-10-10",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-10-11",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-10-12",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-10-13",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-10-14",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-10-15",
+    "contributionCount": 0
+   },
+   {
+    "date": "2026-10-16",
+    "contributionCount": 8
+   },
+   {
+    "date": "2026-10-17",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-10-18",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-10-19",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-10-20",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-10-21",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-10-22",
+    "contributionCount": 1
+   },
+   {
+    "date": "2026-10-23",
+    "contributionCount": 5
+   },
+   {
+    "date": "2026-10-24",
+    "contributionCount": 4
+   },
+   {
+    "date": "2026-10-25",
+    "contributionCount": 4
+   },
+   {
+    "date": "2026-10-26",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-10-27",
+    "contributionCount": 3
+   },
+   {
+    "date": "2026-10-28",
+    "contributionCount": 4
+   },
+   {
+    "date": "2026-10-29",
+    "contributionCount": 2
+   },
+   {
+    "date": "2026-10-30",
+    "contributionCount": 4
+   },
+   {
+    "date": "2026-10-31",
+    "contributionCount": 4
+   },
+   {
+    "date": "2026-11-01",
+    "contributionCount": 1
+   }
+  ]
+ }
+}
