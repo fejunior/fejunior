@@ -5,9 +5,9 @@
 <rect width="1200" height="150" rx="16" fill="#071226"/><rect width="1200" height="150" rx="16" fill="url(#grid)"/>
 
 <text x="40" y="40" font-family="M" font-size="14" fill="#68d8ff">$ junonn stats</text>
-<text x="1160" y="40" text-anchor="end" font-family="M" font-size="12" fill="rgba(243,248,255,.64)">atualizado em 03/11/2026, 13:58</text>
+<text x="1160" y="40" text-anchor="end" font-family="M" font-size="12" fill="rgba(243,248,255,.64)">atualizado em 04/11/2026, 14:06</text>
 
-<text x="40" y="94" font-family="S" font-weight="800" font-size="34" letter-spacing="-1" fill="url(#hl)">1.022</text>
+<text x="40" y="94" font-family="S" font-weight="800" font-size="34" letter-spacing="-1" fill="url(#hl)">1.023</text>
 <text x="40" y="118" font-family="M" font-size="12" fill="rgba(243,248,255,.64)">contribuições no último ano</text>
 <path d="M264 58V118" stroke="rgba(104,216,255,.16)"/>
 <text x="288" y="94" font-family="S" font-weight="800" font-size="34" letter-spacing="-1" fill="url(#hl)">3 dias</text>

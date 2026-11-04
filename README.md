@@ -77,7 +77,7 @@ foco      .NET + Vue 3, com o domínio no centro e a tecnologia na borda
 <!-- junonn:recent:start -->
 | repositório | linguagem | quando |
 |---|---|---|
-| [`fenixdevsreborn/Fase5-Hackathon`](https://github.com/fenixdevsreborn/Fase5-Hackathon) | C# | há 3 meses |
+| [`fenixdevsreborn/Fase5-Hackathon`](https://github.com/fenixdevsreborn/Fase5-Hackathon) | C# | há 4 meses |
 | [`fenixdevsreborn/Fase4-UsersAPI`](https://github.com/fenixdevsreborn/Fase4-UsersAPI) | C# | há 6 meses |
 | [`fenixdevsreborn/Fase4-Orchestrator`](https://github.com/fenixdevsreborn/Fase4-Orchestrator) | PowerShell | há 6 meses |
 | [`fenixdevsreborn/Fase4-PaymentsAPI`](https://github.com/fenixdevsreborn/Fase4-PaymentsAPI) | C# | há 6 meses |
